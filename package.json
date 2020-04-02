@@ -1,0 +1,25 @@
+{
+  "name": "d4di-project-01",
+  "version": "1.0.0",
+  "description": "Test 1 en cours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janocka/D4DI-project-01.git"
+  },
+  "keywords": [
+    "node-tippy-training"
+  ],
+  "author": "Axelle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janocka/D4DI-project-01/issues"
+  },
+  "homepage": "https://github.com/janocka/D4DI-project-01#readme",
+  "dependencies": {
+    "tippy.js": "^6.1.0"
+  }
+}
